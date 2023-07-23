@@ -1,0 +1,203 @@
+{
+  "id": 134,
+  "intents": [
+    {
+      "context_set": "",
+      "patterns": [
+        "Hai ",
+        "Hii",
+        "Hello",
+        "Good",
+        "hallo"
+      ],
+      "responses": [
+        "Hai selamat datang di Herbalia, Aku Herby, asisten yang akan membantu kamu. Jadi, apa ada yang bisa Herby bantu ?"
+      ],
+      "tag": "hai"
+    },
+    {
+      "context_set": "",
+      "patterns": [
+        "Herbalia",
+        "apa itu Herbalia",
+        "sebenarnya apa sih Herbalia itu",
+        "Herbalia adalah",
+        "apa Herbalia"
+      ],
+      "responses": [
+        "Herbalia adalah Herbalia adalah web yang memungkinkan pengguna mengetahui jenis dan manfaat tanaman herbal dan juga agar pengguna dapat membedakan mana tanaman herbal dan bukan melalui fitur pemindaian gambar tanaman. Selain dapat menampilkan gambar, juga terdapat fitur artikel yang dapat memberikan informasi seperti tips."
+      ],
+      "tag": "Herbalia"
+    },
+    {
+      "context_set": "",
+      "patterns": [
+        "tujuannya apa",
+        "tujuan Herbalia",
+        "apa tujuannya"
+      ],
+      "responses": [
+        "Tujuan Herbalia adalah untuk memudahkan masyarakat yang ingin mengetahui tentang jenis-jenis tanaman herbal."   
+      ],
+      "tag": "tujuan Herbalia"
+    },
+    {
+      "context_set": "",
+      "patterns": [
+        "total jenis tanaman herbal ada berapa",
+        "ada berapa jumlah jenis tanaman herbal",
+        "jumlah",
+        "total"
+      ],
+      "responses": [
+        "Di Indonesia terdapat sekitar 143 juta hektar hutan tropis yang menjadi habitat bagi 80 persen dari total tanaman herbal di seluruh dunia. Diduga terdapat sekitar 25.000 hingga 30.000 jenis tanaman yang memiliki potensi sebagai tanaman herbal. Berdasarkan penelitian terbaru dari para ahli di IPB University, ditemukan sebanyak 1.845 spesies tanaman herbal yang dapat dijadikan sebagai obat. Fakta ini menunjukkan bahwa jumlah tanaman herbal di Indonesia sangatlah melimpah. Namun di website ini hanya ada 10 jenis tanaman herbal yaitu: Daun jambu biji, daun kari, daun kunyit, daun pepaya, daun sirsak, daun teh hijau, daun mint, lidah buaya, daun sirih, dan daun kemangi."
+      ],
+      "tag": "jumlah tanaman herbal"
+    },
+    {
+      "context_set": "",
+      "patterns": [
+        "fitur apa saja yang disediakan oleh Herbalia",
+        "apa saja yang bisa dilakukan di Herbalia",
+        "fitur yang ada di Herbalia",
+        "apa saja yang dapat dilakukan"
+      ],
+      "responses": [
+        "Herbalia menyediakan beberapa fitur yang berguna untuk pengguna, di antaranya: melakukan scan tanaman dan upload gambar tanaman herbal untuk mengetahui jenis tanamannya, menyediakan daftar tanaman herbal yang tersedia, dan menyediakan artikel dan tips mengenai tanaman herbal. Anda juga bisa memberikan kontribusi dengan memberikan saran tentang tanaman herbal yang belum tersedia di website ini."
+      ],
+      "tag": "fitur Herbalia"
+    },
+    {
+      "context_set": "",
+      "patterns": [
+        "bagaimana cara menggunakan fitur pemindaian gambar tanaman herbal di Herbalia",
+        "cara scan gambar tanaman herbal",
+        "proses scan tanaman herbal di Herbalia",
+        "bagaimana cara mengidentifikasi tanaman herbal melalui gambar"
+      ],
+      "responses": [
+        "Untuk menggunakan fitur pemindaian gambar tanaman herbal di Herbalia, Anda dapat mengunjungi halaman upload gambar di halaman ini. Kemudian, ikuti langkah-langkah di halaman tersebut."
+      ],
+      "tag": "cara scan gambar"
+    },
+    {
+      "context_set": "",
+      "patterns": [
+        "apa saja manfaat dari tanaman herbal",
+        "kegunaan tanaman herbal",
+        "manfaat penggunaan tanaman herbal",
+        "efek samping penggunaan tanaman herbal"
+      ],
+      "responses": [
+        "Tanaman herbal memiliki beragam manfaat bagi kesehatan dan pengobatan."
+      ],
+      "tag": "manfaat tanaman herbal"
+    },
+    {
+      "context_set": "",
+      "patterns": [
+        "apa perbedaan antara tanaman herbal dan bukan herbal",
+        "bagaimana cara membedakan tanaman herbal dan non-herbal",
+        "cara mengenali tanaman herbal",
+        "bagaimana cara memastikan tanaman herbal"
+      ],
+      "responses": [
+        "Perbedaan antara tanaman herbal dan bukan herbal dapat dilihat dari Faktor perbedaan."
+      ],
+      "tag": "bedakan tanaman herbal"
+    },
+    {
+      "context_set": "",
+      "patterns": [
+        "bagaimana cara merawat tanaman herbal di rumah",
+        "tips merawat tanaman herbal",
+        "cara menanam tanaman herbal",
+        "perawatan tanaman herbal"
+      ],
+      "responses": [
+        " Pastikan untuk memberikan perawatan yang baik agar tanaman herbal tetap sehat dan tumbuh dengan baik."
+      ],
+      "tag": "perawatan tanaman herbal"
+    },
+    {
+      "context_set": "",
+      "patterns": ["Daun jambu biji", "jambu biji", "manfaat daun jambu biji", "khasiat daun jambu biji"],
+      "responses": [
+        "Daun jambu biji memiliki beragam manfaat, antara lain: membantu menurunkan gula darah, meningkatkan sistem kekebalan tubuh, dan mengatasi masalah kulit seperti jerawat."
+      ],
+      "tag": "daun jambu biji"
+    },
+    {
+      "context_set": "",
+      "patterns": ["Daun kari", "kari", "manfaat daun kari", "khasiat daun kari"],
+      "responses": [
+        "Daun kari memiliki khasiat antioksidan, anti-inflamasi, dan antimikroba. Selain itu, daun kari juga dapat membantu mengatasi masalah pencernaan dan meningkatkan kesehatan kulit."
+      ],
+      "tag": "daun kari"
+    },
+    {
+      "context_set": "",
+      "patterns": ["Daun kunyit", "kunyit", "manfaat daun kunyit", "khasiat daun kunyit"],
+      "responses": [
+        "Daun kunyit mengandung senyawa kurkumin yang memiliki sifat antiinflamasi dan antioksidan. Daun kunyit juga dapat membantu meningkatkan kesehatan hati dan mengatasi masalah perut."
+      ],
+      "tag": "daun kunyit"
+    },
+    {
+      "context_set": "",
+      "patterns": ["Daun pepaya", "pepaya", "manfaat daun pepaya", "khasiat daun pepaya"],
+      "responses": [
+        "Daun pepaya memiliki kandungan enzim papain yang berguna untuk membantu proses pencernaan. Selain itu, daun pepaya juga dapat membantu mengobati luka, mengatasi masalah perut, dan meningkatkan sistem kekebalan tubuh."
+      ],
+      "tag": "daun pepaya"
+    },
+    {
+      "context_set": "",
+      "patterns": ["Daun sirsak", "sirsak", "manfaat daun sirsak", "khasiat daun sirsak"],
+      "responses": [
+        "Daun sirsak mengandung senyawa acetogenins yang memiliki sifat antikanker. Selain itu, daun sirsak juga dapat membantu mengatasi masalah kesehatan lainnya seperti diabetes dan hipertensi."
+      ],
+      "tag": "daun sirsak"
+    },
+    {
+      "context_set": "",
+      "patterns": ["Daun teh hijau", "teh hijau", "manfaat daun teh hijau", "khasiat daun teh hijau"],
+      "responses": [
+        "Daun teh hijau mengandung katekin yang memiliki sifat antioksidan dan antiinflamasi. Daun teh hijau juga dapat membantu meningkatkan kesehatan jantung dan membantu menurunkan berat badan."
+      ],
+      "tag": "daun teh hijau"
+    },
+    {
+      "context_set": "",
+      "patterns": ["Daun mint", "mint", "manfaat daun mint", "khasiat daun mint"],
+      "responses": [
+        "Daun mint memiliki aroma segar dan mengandung menthol yang membantu meredakan masalah pernapasan, seperti pilek dan flu. Selain itu, daun mint juga dapat membantu meredakan masalah pencernaan dan meningkatkan rasa kenyang."
+      ],
+      "tag": "daun mint"
+    },
+    {
+      "context_set": "",
+      "patterns": ["Lidah buaya", "aloe vera", "manfaat lidah buaya", "khasiat lidah buaya"],
+      "responses": [
+        "Lidah buaya mengandung beragam nutrisi dan senyawa bioaktif yang bermanfaat untuk kulit dan rambut. Selain itu, lidah buaya juga dapat membantu meningkatkan sistem pencernaan dan meredakan iritasi pada kulit."
+      ],
+      "tag": "lidah buaya"
+    },
+    {
+      "context_set": "",
+      "patterns": ["Daun sirih", "sirih", "manfaat daun sirih", "khasiat daun sirih"],
+      "responses": [
+        "Daun sirih mengandung senyawa aktif seperti tanin dan minyak atsiri yang memiliki sifat antimikroba dan antiinflamasi. Daun sirih juga dapat membantu merawat kesehatan mulut dan gigi serta mengatasi masalah kulit seperti jerawat."
+      ],
+      "tag": "daun sirih"
+    },
+    {
+      "context_set": "",
+      "patterns": ["Daun kemangi", "kemangi", "manfaat daun kemangi", "khasiat daun kemangi"],
+      "responses": [
+        "Daun kemangi mengandung senyawa fitonutrien yang bermanfaat untuk kesehatan mata dan jantung. Daun kemangi juga dapat membantu mengatasi masalah pencernaan dan meningkatkan kesehatan kulit."
+      ],
+      "tag": "daun kemangi"
+    }
+  ]
+}
